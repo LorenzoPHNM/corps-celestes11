@@ -10,4 +10,4 @@
   - Aphélie : 0 km
   - Périhélie : 0 km
   - Demi-grand axe : 0 km
-- Symbole : U+2609;
+- Symbole : &#x2600;
